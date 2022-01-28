@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button {
+  background-color: black;
+  border: 1px solid white;
+  color: white;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  margin: 1.5% 0 1.5% 0;
+}
+
+input {
+  border: 1px solid white;
+}
+
+.container {
+  background-color: white;
+  display: grid;
+  grid-column-gap: 0;
+  grid-row-gap: 0;
+  width: 80%;
+  height: 80%;
+}
+
+.container div {
+  opacity: 0.1;
+}
+
+.options {
+  width: 80%;
+  margin: 1.5% 0 1.5% 0;
+  display: flex;
+  gap: 5px;
+}
+
+.grid {
+  margin-left: auto;
+}
+
