@@ -3,7 +3,7 @@
 
 
 
-This project was created as part of [The Odin Project](https://www.theodinproject.com/).
+This project was created as part of [The Odin Project](https://www.theodinproject.com/) and can be ran at https://chrisjwirth.github.io/odin_etch_a_sketch/.
 
 The features include:
 - The ability to select between B&W and Color;
